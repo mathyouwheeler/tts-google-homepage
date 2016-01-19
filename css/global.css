@@ -58,20 +58,17 @@ img {
   clear: both;
 }
 header ul,
-footer ul,
-.form-wrap ul {
+footer ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
 header ul li,
-footer ul li,
-.form-wrap ul li {
+footer ul li {
   display: inline-block;
   float: left;
 }
 header ul li a,
-footer ul li a,
-.form-wrap ul li a {
+footer ul li a {
   display: block;
 }
